@@ -25,7 +25,9 @@ HTML · Tailwind CSS · Bootstrap 5 · Cloudinary (image hosting) · Netlify (de
 
 Run Locally
 bashgit clone https://github.com/Artiverma19/ichiraku-ramen-bar.git
+
 cd ichiraku-ramen-bar
+
 Open index.html in your browser. No install needed.
 
 Arti Verma · GitHub
