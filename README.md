@@ -1,4 +1,5 @@
 Ichiraku Ramen Bar 🍜
+
 A responsive restaurant website for a fictional Japanese ramen bar inspired by the iconic spot from Naruto. Built as a frontend project to practise responsive layouts, component design, and real-world deployment.
 👉 Live Demo: https://ichirakuramenbarsite.netlify.app/
 
